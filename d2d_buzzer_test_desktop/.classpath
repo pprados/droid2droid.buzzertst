@@ -6,6 +6,5 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/AndroidDesktopLayer"/>
 	<classpathentry kind="var" path="ANDROID_SDK/tools/lib/ddms.jar"/>
 	<classpathentry kind="var" path="ANDROID_SDK/tools/lib/sdklib.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/RATestAppForDesktopTest"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
